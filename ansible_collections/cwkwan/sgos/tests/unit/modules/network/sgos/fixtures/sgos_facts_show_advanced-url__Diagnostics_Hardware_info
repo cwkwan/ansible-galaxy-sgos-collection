@@ -1,0 +1,18 @@
+Hardware Information
+
+Model: S200-20
+RAM: 8192 MB
+        DIMM A1: 4096 MB, 1600 MHz DDR3 Synchronous with 64 bit Single-bit ECC, pn:XQ16D8E4GM-E-BC
+        DIMM B1: 4096 MB, 1600 MHz DDR3 Synchronous with 64 bit Single-bit ECC, pn:XQ16D8E4GM-E-BC
+Number of physical CPUs: 1
+Number of cores: 1
+CPU frequency: 3491 MHz
+Storage: 2 drives
+        Disk in slot 1: 500 GB SEAGATE ST9500620NS, rev:SN03 serial:1234ABCD status:present
+        Disk in slot 2: 500 GB SEAGATE ST9500620NS, rev:SN03 serial:ABCD1234 status:present
+Network:
+        Interface 0:0: Intel Gigabit     copper running at 1 Gbps full duplex (MAC 00:11:22:AA:BB:5CC6)
+        Interface 1:0: Intel Gigabit     with no link  (MAC AA:BB:CC:11:22:33)
+        Interface 2:0: Intel Gigabit     copper running at 1 Gbps full duplex (MAC AA:11:BB:22:CC:33)
+        Interface 2:1: Intel Gigabit     with no link  (MAC 11:AA:22:BB:33:CC)
+Accelerators: none
