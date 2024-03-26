@@ -92,3 +92,4 @@ class TestPluginCLIConfSGOS(unittest.TestCase):
             mock_capabilities,
             capabilities
         )
+

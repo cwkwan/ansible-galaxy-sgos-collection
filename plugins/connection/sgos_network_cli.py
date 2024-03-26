@@ -737,3 +737,4 @@ class Connection(NetworkConnectionBase):
             terminal_std_re = getattr(self._terminal, option)
 
         return terminal_std_re
+

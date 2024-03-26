@@ -89,3 +89,4 @@ class TestSgosCommandModule(TestSgosModule):
         commands = ['show version', 'show version']
         set_module_args(dict(commands=commands, wait_for=wait_for, match='all'))
         self.execute_module(failed=True)
+

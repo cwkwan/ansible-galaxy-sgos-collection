@@ -36,3 +36,4 @@ class TestSgosConfigModule(TestSgosModule):
         args = dict(src='foo', lines='foo')
         set_module_args(args)
         self.execute_module(failed=True)
+

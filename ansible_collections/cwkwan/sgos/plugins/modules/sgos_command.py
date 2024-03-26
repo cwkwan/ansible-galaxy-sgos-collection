@@ -67,6 +67,7 @@ options:
         trying the command again.
     type: int
     default: 1
+"""
 
 EXAMPLES = """
 tasks:
@@ -213,3 +214,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

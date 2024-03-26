@@ -41,3 +41,4 @@ class TestSgosFactsModule(TestSgosModule):
         self.assertEqual(
             result['ansible_facts']['ansible_net_serialnum'], '1234567890'
         )
+

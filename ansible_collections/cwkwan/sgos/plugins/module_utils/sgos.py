@@ -119,3 +119,4 @@ def load_config(module, commands):
         return resp.get('response')
     except ConnectionError as exc:
         module.fail_json(msg=to_text(exc))
+
